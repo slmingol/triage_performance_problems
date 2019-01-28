@@ -1,0 +1,11 @@
+* https://en.wikipedia.org/wiki/Protection_ring
+* https://en.wikipedia.org/wiki/Xen
+* https://www.google.com/search?q=instruction+set+vt-x&oq=instruction+set+vt&aqs=chrome.1.69i57j33.8482j0j7&client=ms-android-motorola&sourceid=chrome-mobile&ie=UTF-8
+* https://en.wikipedia.org/wiki/X86_virtualization
+* https://www.google.com/search?q=ring+0+operating+system&oq=ring+0&aqs=chrome.3.69i57j0l3.5340j0j7&client=ms-android-motorola&sourceid=chrome-mobile&ie=UTF-8
+* http://www.unixarena.com/2017/12/para-virtualization-full-virtualization-hardware-assisted-virtualization.html/
+* https://blogs.vmware.com/feed-items/para-virtualization-vs-full-virtualization-vs-hardware-assisted-virtualization
+* https://www.google.com/search?q=qemu&oq=qemu&aqs=chrome..69i57j69i65l2j35i39l2j0.5576j0j7&client=ms-android-motorola&sourceid=chrome-mobile&ie=UTF-8
+* https://lwn.net/Articles/658511/
+* https://developer.ibm.com/articles/cl-hypervisorcompare-kvm/
+* https://www.linux-kvm.org/page/Initialization
