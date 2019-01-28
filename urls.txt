@@ -9,3 +9,4 @@
 * https://lwn.net/Articles/658511/
 * https://developer.ibm.com/articles/cl-hypervisorcompare-kvm/
 * https://www.linux-kvm.org/page/Initialization
+* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/performance_tuning_guide/sect-red_hat_enterprise_linux-performance_tuning_guide-performance_monitoring_tools-numastat
